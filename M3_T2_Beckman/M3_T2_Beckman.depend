@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1537584234 source:/home/user/M3_T2_Beckman/main.cpp
+	<iostream>
+	"image_File_Array.h"
+	"display_Image.h"
+	"path_Finder.h"
+
+1537585078 /home/user/M3_T2_Beckman/include/image_File_Array.h
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+
+1537500829 /home/user/M3_T2_Beckman/include/display_Image.h
+
+1537584989 source:/home/user/M3_T2_Beckman/src/image_File_Array.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	"image_File_Array.h"
+
+1537585406 source:/home/user/M3_T2_Beckman/src/path_Finder.cpp
+	<cmath>
+	"path_Finder.h"
+
+1537500829 /home/user/M3_T2_Beckman/include/path_Finder.h
+
+1537500829 source:/home/user/M3_T2_Beckman/src/display_Image.cpp
+	"display_Image.h"
+	"Bridges.h"
+	"Color.h"
+	"ColorGrid.h"
+
+1534900529 /home/user/bridges/Bridges.h
+	<iostream>
+	<algorithm>
+	"DataStructure.h"
+	"ServerComm.h"
+
+1534900529 /home/user/bridges/DataStructure.h
+	<string>
+
+1534900529 /home/user/bridges/ServerComm.h
+	<string>
+	<vector>
+	<curl/curl.h>
+	"./data_src/EarthquakeUSGS.h"
+	"./data_src/Game.h"
+	"./data_src/Shakespeare.h"
+	"./data_src/GutenbergBook.h"
+	"./data_src/CancerIncidence.h"
+	"./data_src/ActorMovieIMDB.h"
+	"./data_src/Song.h"
+
+1534900529 /home/user/bridges/data_src/EarthquakeUSGS.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Game.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Shakespeare.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/GutenbergBook.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/CancerIncidence.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/ActorMovieIMDB.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Song.h
+
+1534900529 /home/user/bridges/Color.h
+	<iostream>
+	<array>
+	<regex>
+	<unordered_map>
+	<cmath>
+	<sstream>
+	<iomanip>
+	"DataStructure.h"
+
+1534900529 /home/user/bridges/ColorGrid.h
+	<string>
+	"Grid.h"
+	"Color.h"
+	"base64.h"
+
+1534900529 /home/user/bridges/Grid.h
+	"DataStructure.h"
+	<vector>
+	"base64.h"
+
+1534900529 /home/user/bridges/base64.h
+	<iostream>
+	<string>
+	<vector>
+
