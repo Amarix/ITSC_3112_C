@@ -1,0 +1,4 @@
+Reads from .dat files and scales the values to between 0-255. 
+Determines the shortest path across the image as if it is a topographic map.
+
+Practice with I/O and Bridges.
