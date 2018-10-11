@@ -1,0 +1,9 @@
+Processes ppm files.
+
+Alters the image:
+Flips horizontally
+Grayscale
+FlattenRed
+NegateBlue
+
+combine images into one file where they are stacked on top of each other.

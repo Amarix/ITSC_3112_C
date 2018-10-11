@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1538438171 source:/home/user/M4_T2/main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	"Image.h"
+
+1538437597 /home/user/M4_T2/include/Image.h
+	<string>
+
+1538437771 source:/home/user/M4_T2/src/Image.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	"Bridges.h"
+	"ColorGrid.h"
+	"Image.h"
+
+1534900529 /home/user/bridges/Bridges.h
+	<iostream>
+	<algorithm>
+	"DataStructure.h"
+	"ServerComm.h"
+
+1534900529 /home/user/bridges/DataStructure.h
+	<string>
+
+1534900529 /home/user/bridges/ServerComm.h
+	<string>
+	<vector>
+	<curl/curl.h>
+	"./data_src/EarthquakeUSGS.h"
+	"./data_src/Game.h"
+	"./data_src/Shakespeare.h"
+	"./data_src/GutenbergBook.h"
+	"./data_src/CancerIncidence.h"
+	"./data_src/ActorMovieIMDB.h"
+	"./data_src/Song.h"
+
+1534900529 /home/user/bridges/data_src/EarthquakeUSGS.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Game.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Shakespeare.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/GutenbergBook.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/CancerIncidence.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/ActorMovieIMDB.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Song.h
+
+1534900529 /home/user/bridges/ColorGrid.h
+	<string>
+	"Grid.h"
+	"Color.h"
+	"base64.h"
+
+1534900529 /home/user/bridges/Grid.h
+	"DataStructure.h"
+	<vector>
+	"base64.h"
+
+1534900529 /home/user/bridges/base64.h
+	<iostream>
+	<string>
+	<vector>
+
+1534900529 /home/user/bridges/Color.h
+	<iostream>
+	<array>
+	<regex>
+	<unordered_map>
+	<cmath>
+	<sstream>
+	<iomanip>
+	"DataStructure.h"
+
