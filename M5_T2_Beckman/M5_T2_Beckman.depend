@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1539561036 source:/home/user/M5_T2_Beckman/src/Circle.cpp
+	"Circle.h"
+
+1539563522 /home/user/M5_T2_Beckman/include/Circle.h
+	"Shape.h"
+	<math.h>
+
+1539561279 source:/home/user/M5_T2_Beckman/main.cpp
+	<iostream>
+	"Square.h"
+	"Circle.h"
+	"Rectangle.h"
+	"Cube.h"
+	"Cuboid.h"
+	"Ellipse.h"
+	"Ellipsoid.h"
+
+1539561991 source:/home/user/M5_T2_Beckman/src/Shape.cpp
+	"Shape.h"
+
+1539561991 /home/user/M5_T2_Beckman/include/Shape.h
+	<iostream>
+	<cstring>
+
+1539561035 source:/home/user/M5_T2_Beckman/src/Square.cpp
+	"Square.h"
+
+1539563522 /home/user/M5_T2_Beckman/include/Square.h
+	"Shape.h"
+
+1539563522 /home/user/M5_T2_Beckman/include/Rectangle.h
+	"Shape.h"
+
+1539560841 source:/home/user/M5_T2_Beckman/src/Rectangle.cpp
+	"Rectangle.h"
+
+1539563522 /home/user/M5_T2_Beckman/include/Cube.h
+	"Square.h"
+
+1539561035 source:/home/user/M5_T2_Beckman/src/Cube.cpp
+	"Cube.h"
+
+1539561035 source:/home/user/M5_T2_Beckman/src/Cuboid.cpp
+	"Cuboid.h"
+
+1539563522 /home/user/M5_T2_Beckman/include/Cuboid.h
+	"Rectangle.h"
+
+1539563522 /home/user/M5_T2_Beckman/include/Ellipse.h
+	"Circle.h"
+	<math.h>
+
+1539561036 source:/home/user/M5_T2_Beckman/src/Ellipse.cpp
+	"Ellipse.h"
+
+1539561036 source:/home/user/M5_T2_Beckman/src/Ellipsoid.cpp
+	"Ellipsoid.h"
+
+1539563522 /home/user/M5_T2_Beckman/include/Ellipsoid.h
+	"Ellipse.h"
+	<math.h>
+

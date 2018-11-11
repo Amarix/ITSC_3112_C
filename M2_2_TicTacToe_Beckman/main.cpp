@@ -16,6 +16,15 @@ using namespace std;
 
 int main()
 {
+
+    int numbers[] = {10,20,30,40,50};
+
+    cout << *(numbers + 3) << endl;
+
+    int *ptr;
+
+    *ptr = 23;
+
     TicTacToe game;
 
     cout << game.newGameHeader << endl; // prints new game header including welcome message and rules

@@ -23,3 +23,15 @@
 	<string>
 	<iostream>
 
+1536367058 source:c:\users\allie\documents\github\itsc_3112_c-\m2_2_tictactoe_beckman\tictactoe.cpp
+	"TicTacToe.h"
+	<string>
+	<iostream>
+
+1536367058 c:\users\allie\documents\github\itsc_3112_c-\m2_2_tictactoe_beckman\tictactoe.h
+	<string>
+
+1536814451 source:c:\users\allie\documents\github\itsc_3112_c-\m2_2_tictactoe_beckman\main.cpp
+	<iostream>
+	"TicTacToe.h"
+
